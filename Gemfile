@@ -7,8 +7,10 @@ group :development do
 end
 
 group :test do
-  gem 'pg'
   gem 'rspec-rails', '2.6.1'
   gem 'webrat', '0.7.1'
+end
+group :production do
+  gem 'pg'
 end
 gem 'jquery-rails'

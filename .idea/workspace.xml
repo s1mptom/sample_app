@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9a801ab1-a852-4c6e-904e-7acdccca8266" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/sample_app.iml" afterPath="$PROJECT_DIR$/.idea/sample_app.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gemfile.lock" afterPath="$PROJECT_DIR$/Gemfile.lock" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gemfile" afterPath="$PROJECT_DIR$/Gemfile" />
     </list>
@@ -65,7 +65,7 @@
       <file leaf-file-name="Gemfile" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Gemfile">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="9" selection-start="60" selection-end="60" vertical-scroll-proportion="0.056437388">
+            <state line="13" column="10" selection-start="237" selection-end="237" vertical-scroll-proportion="0.36684304">
               <folding />
             </state>
           </provider>
@@ -655,7 +655,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Gemfile">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="9" selection-start="60" selection-end="60" vertical-scroll-proportion="0.056437388">
+        <state line="13" column="10" selection-start="237" selection-end="237" vertical-scroll-proportion="0.36684304">
           <folding />
         </state>
       </provider>
