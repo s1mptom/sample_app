@@ -4,6 +4,7 @@ gem 'taps'
 group :development do
   gem 'rspec-rails', '2.6.1'
   gem 'sqlite3'
+  gem 'annotate'
 end
 
 group :test do
