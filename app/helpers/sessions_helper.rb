@@ -18,6 +18,10 @@ module SessionsHelper
     self.current_user = nil
   end
 
+  def signed_in?
+    !current_user.nil?
+  end
+
   private
 
   def user_from_remember_token
