@@ -188,3 +188,11 @@ div.field, div.actions {
     -webkit-border-radius: 10px;
     border-radius:         10px;
 }
+
+ul.users {
+    margin-top: 1em;
+}
+
+.users li {
+    list-style: none;
+}

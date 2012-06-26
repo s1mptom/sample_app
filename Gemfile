@@ -2,11 +2,13 @@ source 'https://rubygems.org'
 gem 'rails', '3.2.6'
 gem 'taps'
 gem 'gravatar_image_tag'
+gem 'will_paginate'
 
 group :development do
   gem 'rspec-rails', '2.6.1'
   gem 'sqlite3'
   gem 'annotate'
+  gem 'faker'
 end
 
 group :test do
